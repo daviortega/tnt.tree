@@ -1,3 +1,4 @@
+var d3 = require('d3')
 var apijs = require("tnt.api");
 var tnt_tree_node = require("tnt.tree.node");
 var utils = require('tnt.utils');
