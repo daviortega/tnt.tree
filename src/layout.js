@@ -1,5 +1,6 @@
 // Based on the code by Ken-ichi Ueda in http://bl.ocks.org/kueda/1036776#d3.phylogram.js
 
+var d3 = require('d3');
 var apijs = require("tnt.api");
 var diagonal = require("./diagonal.js");
 var tree = {};
